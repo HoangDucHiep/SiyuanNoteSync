@@ -1,0 +1,16 @@
+{
+  "plugins": [
+    {
+      "name": "code-tabs",
+      "version": "2.1.0"
+    },
+    {
+      "name": "siyuan-embed-excalidraw",
+      "version": "1.0.4"
+    },
+    {
+      "name": "sy-plugin-tab-close",
+      "version": "0.5.1"
+    }
+  ]
+}
